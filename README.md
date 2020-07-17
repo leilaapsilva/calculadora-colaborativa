@@ -19,3 +19,5 @@ Começamos com um projeto simples e incompleto, e uma lista de issues (tarefas) 
 - Melhorar o design
 - Tornar responsivo
 etc
+
+Usar [esse roteiro](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md) como guia
