@@ -1,0 +1,39 @@
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.botao-numero {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(88, 87, 87);
+    border-style: outset;
+    color: white;
+    font-size: 20px;
+
+}
+
+#calculadora {
+    width: 400px;
+    height: 500px;
+    background-color: rgb(189, 187, 187);
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+#visor {
+    width: 300px;
+    height: 50px;
+    background-color: white;
+    border-style: inset;
+}
+
+#botoes {
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+}
