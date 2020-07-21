@@ -1,3 +1,26 @@
+.teste{
+    margin:0 !important;
+	padding: 0px !important;
+}
+
+#calculadora-bootstrap {
+    width: 400px;
+    height: 500px;
+    background-color: rgb(189, 187, 187);
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+/* Botões dentro da div da calculadora */
+#calculadora-bootstrap button{
+    width: 80px;
+    height: 80px;
+}
+
+/* 
 .center {
     margin: auto;
     width: 50%;
@@ -36,4 +59,4 @@
     margin: auto;
     text-align: center;
     padding: 15px;
-}
+} */
